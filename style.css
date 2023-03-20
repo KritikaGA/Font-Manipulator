@@ -1,0 +1,33 @@
+.copyRightFooter{
+    position:fixed;
+    color:ghostwhite;
+    width:100%;
+    background-color: purple;
+    text-align: center;
+    bottom:0;
+   }
+   
+   .heading{
+   font-size: 25px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   width:100%;
+   box-shadow: 6px 6px 6px teal;
+   margin-left: 10px;
+   margin-right: 10px;
+   
+   }
+   
+   .note{
+   font-size: 15px;
+   color: black;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   white-space: pre-wrap;
+   }
+   
+   canvas{
+   border:6px dotted lightblue;
+   border-radius:20px;
+   box-shadow:6px 6px 6px lavenderblush;
+   background-color: azure;
+   margin-top: 60px;
+   }
